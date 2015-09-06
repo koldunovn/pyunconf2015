@@ -10,7 +10,7 @@ The fastest way is to install [Miniconda](http://conda.pydata.org/miniconda.html
 Then open the comand prompt (will work also in Windows) and put:
 
 ```
-conda install ipython-notebook pandas matplotlib basemap pip
+conda install ipython-notebook pandas matplotlib basemap pip netcdf4
 ```
 This will set you up for the Basemap part.
 
