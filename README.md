@@ -12,7 +12,10 @@ Then open the comand prompt (will work also in Windows) and put:
 ```
 conda install ipython-notebook pandas matplotlib basemap pip
 ```
+This will set you up for the Basemap part.
 
+Cartopy installation
+====================
 Cartopy does not play very well with Basemap, so the easiest way to make it work is to create separate `conda` environment:
 
 ```
